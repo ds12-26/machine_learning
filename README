@@ -1,1 +1,15 @@
+# Music Genre Classification
+
+## A machine learning project that classifies music into 10 genres using extracted audio features from the GTZAN dataset.
+
+# Overview
+
+## This project explores whether measurable audio characteristics can accurately predict a song's genre. 
+Three classification models are compared: Logistic Regression, Random Forest, and Support Vector Machine(SVM),
+with the SVM achieving the best results at 91.3% test accuracy.
+
+# Genres Classified
+
+## Blues, Classical, Country, Disco, Hip-Hop, Jazz, Metal, Pop, Reggae, Rock
+
 
